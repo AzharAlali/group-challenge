@@ -5,3 +5,7 @@
 - praneeth
 - Kamal
 - Jeevan
+
+
+Here is my GitHub profile: 
+- [Azhar profile](https://github.com/AzharAlali)
