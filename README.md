@@ -8,4 +8,4 @@
 
 
 Here is my GitHub profile: 
-- [Azhar profile](https://github.com/AzharAlali)
+- [Azhar's profile](https://github.com/AzharAlali)
