@@ -1,7 +1,7 @@
 # group-challenge
 ## Implementing project controllers and routing
 ## team players
-- AZhar
+- Azhar
 - praneeth
 - Kamal
 - Jeevan
