@@ -7,8 +7,8 @@
 - Jeevan
 
 
-Here is my GitHub profile: 
-- [Azhar's profile](https://github.com/AzharAlali)
+Here is our GitHub profiles: 
+- [Azhar profile](https://github.com/AzharAlali)
 - [Praneeth profile](https://github.com/praneeth323)
 - [jeevan profile](https://github.com/jeevanreddymure)
 - [kamal profile](https://github.com/Kamal4195)
